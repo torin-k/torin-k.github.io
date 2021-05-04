@@ -19,9 +19,11 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 * Investigating the efficiency of the QR method versus the Power method for sparse and dense matrices.
 * Using our eigen-finding code to build an algorithm to generate singular vectors and find singular value decomposition (SVD).
 * Using the SVD algorithm to build a lossy compression algorithm.
-* Using the SVD algorithm to build a steganographic algorithm which could hide/retrieve a binary message from a given image wi
+* Using the SVD algorithm to build a steganographic algorithm which could hide/retrieve a binary message from a given image with indiscernible difference in the image.
+
+You can find the final paper and Julia code here.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NjcxODc1LDEwMjI3OTE0MDIsMTIwNT
-E2NzIxLC0xNzg5NjUxOTYzXX0=
+eyJoaXN0b3J5IjpbLTM5MDYwMTgwMiwxMDIyNzkxNDAyLDEyMD
+UxNjcyMSwtMTc4OTY1MTk2M119
 -->
