@@ -13,9 +13,9 @@ As we increase the number of vertices in our tree, we increase the size of the m
 
 * * *
 ### Numerical Linear Algebra (12/15/2020)
-Numerical (or applied) linear algebra is the use of matrix operations to 
+For the final project of 21-241
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4Nzc0NDI5LDEwMjI3OTE0MDIsMTIwNT
-E2NzIxLC0xNzg5NjUxOTYzXX0=
+eyJoaXN0b3J5IjpbLTExMDcwMzA0MTMsMTAyMjc5MTQwMiwxMj
+A1MTY3MjEsLTE3ODk2NTE5NjNdfQ==
 -->
