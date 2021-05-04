@@ -18,9 +18,10 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 * Implementing the Inverse Power method to hone our estimations for eigenvectors.
 * Investigating the efficiency of the QR method versus the Power method for sparse and dense matrices.
 * Using our eigen-finding code to build an algorithm to generate singular vectors and find singular value decomposition (SVD).
-* Using the SVD algorithm to compress black-and-
+* Using the SVD algorithm to build a lossy compression algorithm.
+* Using the SVD algorithm to build a steganographic algorithm which could hide/retrieve a binary message from a given image wi
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjYyMDEwOSwxMDIyNzkxNDAyLDEyMD
-UxNjcyMSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbNTE3NjcxODc1LDEwMjI3OTE0MDIsMTIwNT
+E2NzIxLC0xNzg5NjUxOTYzXX0=
 -->
