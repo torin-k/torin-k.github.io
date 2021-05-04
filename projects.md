@@ -17,9 +17,10 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 * Implementing multiple incrementally more efficient methods for QR decomposition to implement the QR method.
 * Implementing the Inverse Power method to hone our estimations for eigenvectors.
 * Investigating the efficiency of the QR method versus the Power method for sparse and dense matrices.
-* Using our 
+* Using our eigen-finding code to build an algorithm to generate singular vectors and find singular value decomposition (SVD).
+* Using the SVD algorithm to compress black-and-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MjExNDA1LDEwMjI3OTE0MDIsMTIwNT
-E2NzIxLC0xNzg5NjUxOTYzXX0=
+eyJoaXN0b3J5IjpbLTExNjYyMDEwOSwxMDIyNzkxNDAyLDEyMD
+UxNjcyMSwtMTc4OTY1MTk2M119
 -->
