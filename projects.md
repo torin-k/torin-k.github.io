@@ -24,9 +24,11 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 You can find the final paper and Julia code [here](http://torink.me/SERVER/eigenfinding.pdf).
 
 * * *
-
+### PiMafia (3/15/2020)
+PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub code for the project can be found here.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTU0MjMyNTAsMTYzMzA1NzMwMiwxMD
-IyNzkxNDAyLDEyMDUxNjcyMSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbLTEwODkyNzU4OSwtMjA1NTQyMzI1MCwxNj
+MzMDU3MzAyLDEwMjI3OTE0MDIsMTIwNTE2NzIxLC0xNzg5NjUx
+OTYzXX0=
 -->
