@@ -9,7 +9,11 @@ Graphs are one of the most essential data structures in computer science, and ca
 
 As we increase the number of vertices in our tree, we increase the size of the maze. In a matter of minutes, we can create mind-bogglingly large mazes!
 
+![large maze](http://torink.me/images/large-maze.png)
+
+* * *
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjIwOTczOSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbMTExOTE1NTE4LC0xNzg5NjUxOTYzXX0=
 -->
