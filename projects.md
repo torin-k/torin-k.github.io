@@ -23,7 +23,10 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 
 You can find the final paper and Julia code [here](http://torink.me/SERVER/eigenfinding.pdf).
 
+* * *
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzA1NzMwMiwxMDIyNzkxNDAyLDEyMD
-UxNjcyMSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbLTIwNTU0MjMyNTAsMTYzMzA1NzMwMiwxMD
+IyNzkxNDAyLDEyMDUxNjcyMSwtMTc4OTY1MTk2M119
 -->
