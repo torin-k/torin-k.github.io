@@ -3,10 +3,10 @@ My name is Torin Kovach, and I'm currently an undergraduate at the Carnegie Mell
 * [Contact me](contact.html)
 * [Projects](projects.html)
 * [Experience](experience.html)
-* About me
+* [About me](about-me.html)
 * [About this site](about-site.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjU4Njg0NiwtMjA2OTY2NzM3NywxMz
-U0ODI1NDQsLTczMzc0NzIxNl19
+eyJoaXN0b3J5IjpbMTU2ODIzNTA0MCwtNTAyNTg2ODQ2LC0yMD
+Y5NjY3Mzc3LDEzNTQ4MjU0NCwtNzMzNzQ3MjE2XX0=
 -->
