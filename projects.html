@@ -18,6 +18,18 @@
 <img src="http://torink.me/images/small-maze.png" alt="small maze"></p>
 <p>As we increase the number of vertices in our tree, we increase the size of the maze. In a matter of minutes, we can create mind-bogglingly large mazes!</p>
 <p><img src="http://torink.me/images/large-maze.png" alt="large maze"></p>
+<hr>
+<h3 id="numerical-linear-algebra-12152020">Numerical Linear Algebra (12/15/2020)</h3>
+<p>For the final project of <a href="http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/courses/">21-241</a>, Matrices and Linear Transformations, my partner and I decided to investigate the area of numerical linear algebra, specifically building iterative methods to compute eigenvectors and singular vectors. From scratch using the <a href="https://docs.julialang.org/en/v1/">Julia</a> language, we implemented the Power, Inverse Power, and QR methods to efficiently and accurately generate eigenvalues and eigenvectors. Specifically, I worked on:</p>
+<ul>
+<li>Implementing multiple incrementally more efficient methods for QR decomposition to implement the QR method.</li>
+<li>Implementing the Inverse Power method to hone our estimations for eigenvectors.</li>
+<li>Investigating the efficiency of the QR method versus the Power method for sparse and dense matrices.</li>
+<li>Using our eigen-finding code to build an algorithm to generate singular vectors and find singular value decomposition (SVD).</li>
+<li>Using the SVD algorithm to build a lossy compression algorithm.</li>
+<li>Using the SVD algorithm to build a steganographic algorithm which could hide/retrieve a binary message from a given image with indiscernible difference in the image.</li>
+</ul>
+<p>You can find the final paper and Julia code <a href="http://torink.me/SERVER/eigenfinding.pdf">here</a>.</p>
 </div>
 </body>
 
