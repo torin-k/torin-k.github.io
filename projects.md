@@ -25,10 +25,10 @@ You can find the final paper and Julia code [here](http://torink.me/SERVER/eigen
 
 * * *
 ### PiMafia (3/15/2020)
-PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub code for the project can be found here.
+PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia). I made 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODkyNzU4OSwtMjA1NTQyMzI1MCwxNj
+eyJoaXN0b3J5IjpbLTk2OTkyODYyMywtMjA1NTQyMzI1MCwxNj
 MzMDU3MzAyLDEwMjI3OTE0MDIsMTIwNTE2NzIxLC0xNzg5NjUx
 OTYzXX0=
 -->
