@@ -28,9 +28,9 @@ You can find the final paper and Julia code [here](http://torink.me/SERVER/eigen
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 * * *
 ### Iliac Vein Compression Model (10/15/2020)
-Over the course of multiple years, the [Midwest Cardiovascular Research Foundation](http://www.mcrfmd.com/) (MCRF) worked to develop a predictive model to predict iliac vein compression syndrome
+Over the course of multiple years, the [Midwest Cardiovascular Research Foundation](http://www.mcrfmd.com/) (MCRF) worked to develop a predictive model to predict [iliac vein compression syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4663376/) using non-invasive studies and clinical variables (i.e. age, weight). Working with the foundation, I helped develop this model and build a mobile application using Apache Cordova so that the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzg3NTc4MSwtMTQ3ODgyMzIyNywtOT
-Y5OTI4NjIzLC0yMDU1NDIzMjUwLDE2MzMwNTczMDIsMTAyMjc5
-MTQwMiwxMjA1MTY3MjEsLTE3ODk2NTE5NjNdfQ==
+eyJoaXN0b3J5IjpbLTE0ODgyMDcwOTksLTE0Nzg4MjMyMjcsLT
+k2OTkyODYyMywtMjA1NTQyMzI1MCwxNjMzMDU3MzAyLDEwMjI3
+OTE0MDIsMTIwNTE2NzIxLC0xNzg5NjUxOTYzXX0=
 -->
