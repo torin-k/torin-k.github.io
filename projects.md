@@ -13,9 +13,9 @@ As we increase the number of vertices in our tree, we increase the size of the m
 
 * * *
 ### Numerical Linear Algebra (12/15/2020)
-For the final project of 21-241
+For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colleges/melloncollegeofscience/departmentofmathematicalsciences/courses/), Matrices and Linear Transformations, my partner and I decided to investigate the area of numerical linear algebra, specifically 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcwMzA0MTMsMTAyMjc5MTQwMiwxMj
-A1MTY3MjEsLTE3ODk2NTE5NjNdfQ==
+eyJoaXN0b3J5IjpbOTAyMDkzNTgzLDEwMjI3OTE0MDIsMTIwNT
+E2NzIxLC0xNzg5NjUxOTYzXX0=
 -->
