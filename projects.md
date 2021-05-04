@@ -28,9 +28,9 @@ You can find the final paper and Julia code [here](http://torink.me/SERVER/eigen
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 * * *
 ### Iliac Vein Compression Model (10/15/2020)
-
+Over the course of multiple years, the Midwest Cardiovascular Research Foundation (MCRF)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODMyNDY1LC0xNDc4ODIzMjI3LC05Nj
-k5Mjg2MjMsLTIwNTU0MjMyNTAsMTYzMzA1NzMwMiwxMDIyNzkx
-NDAyLDEyMDUxNjcyMSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbLTEwMDA4MTUwNDQsLTE0Nzg4MjMyMjcsLT
+k2OTkyODYyMywtMjA1NTQyMzI1MCwxNjMzMDU3MzAyLDEwMjI3
+OTE0MDIsMTIwNTE2NzIxLC0xNzg5NjUxOTYzXX0=
 -->
