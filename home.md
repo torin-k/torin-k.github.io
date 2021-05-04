@@ -4,9 +4,9 @@ My name is Torin Kovach, and I'm currently an undergraduate at the Carnegie Mell
 * Projects
 * Experience
 * About me
-* About this site
+* [About this site](about-site.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk2NjczNzcsMTM1NDgyNTQ0LC03Mz
-M3NDcyMTZdfQ==
+eyJoaXN0b3J5IjpbMTgxODc4NzM0LC0yMDY5NjY3Mzc3LDEzNT
+Q4MjU0NCwtNzMzNzQ3MjE2XX0=
 -->
