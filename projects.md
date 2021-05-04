@@ -28,10 +28,10 @@ You can find the final paper and Julia code [here](http://torink.me/SERVER/eigen
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 * * *
 ### Iliac Vein Compression Model (10/15/2020)
-Over the course of multiple years, the [Midwest Cardiovascular Research Foundation](http://www.mcrfmd.com/) (MCRF) worked to develop a predictive model to predict [iliac vein compression syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4663376/) using non-invasive studies and clinical variables (i.e. age, weight), as opposed to the current gold standard intravascular ultrasound, an invasive surgery. Working with the foundation, I helped develop this model and build a mobile application using Apache Cordova so that researchers can quickly and easily use this model on real patients in practice. You can find the app on the  
+Over the course of multiple years, the [Midwest Cardiovascular Research Foundation](http://www.mcrfmd.com/) (MCRF) worked to develop a predictive model to predict [iliac vein compression syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4663376/) using non-invasive studies and clinical variables (i.e. age, weight), as opposed to the current gold standard intravascular ultrasound, an invasive surgery. Working with the foundation, I helped develop this model and build a mobile application using Apache Cordova so that researchers can quickly and easily use this model on real patients in practice. You can find the app on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.mcrfmd.iliac&hl=en_US&gl=US). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTc0MDEsLTE0ODgyMDcwOTksLTE0Nz
-g4MjMyMjcsLTk2OTkyODYyMywtMjA1NTQyMzI1MCwxNjMzMDU3
-MzAyLDEwMjI3OTE0MDIsMTIwNTE2NzIxLC0xNzg5NjUxOTYzXX
-0=
+eyJoaXN0b3J5IjpbODExMjY0MDIxLC0xNDg4MjA3MDk5LC0xND
+c4ODIzMjI3LC05Njk5Mjg2MjMsLTIwNTU0MjMyNTAsMTYzMzA1
+NzMwMiwxMDIyNzkxNDAyLDEyMDUxNjcyMSwtMTc4OTY1MTk2M1
+19
 -->
