@@ -12,8 +12,8 @@ As we increase the number of vertices in our tree, we increase the size of the m
 ![large maze](http://torink.me/images/large-maze.png)
 
 * * *
-
+### QR Decomposition (12/15/2020)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTE1NTE4LC0xNzg5NjUxOTYzXX0=
+eyJoaXN0b3J5IjpbMTIwNTE2NzIxLC0xNzg5NjUxOTYzXX0=
 -->
