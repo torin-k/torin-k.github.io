@@ -21,9 +21,9 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 * Using the SVD algorithm to build a lossy compression algorithm.
 * Using the SVD algorithm to build a steganographic algorithm which could hide/retrieve a binary message from a given image with indiscernible difference in the image.
 
-You can find the final paper and Julia code here.
+You can find the final paper and Julia code [here](http://torink.me/SERVER/eigenfinding.pdf).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDYwMTgwMiwxMDIyNzkxNDAyLDEyMD
+eyJoaXN0b3J5IjpbMTYzMzA1NzMwMiwxMDIyNzkxNDAyLDEyMD
 UxNjcyMSwtMTc4OTY1MTk2M119
 -->
