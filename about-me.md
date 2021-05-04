@@ -1,8 +1,8 @@
 # About Me
 My name is Torin Kovach, and I'm currently an undergraduate at the Carnegie Mellon University [School of Computer Science](https://www.cs.cmu.edu/). Currently, I am pursuing a degree in [Artificial Intelligence](https://www.cs.cmu.edu/bs-in-artificial-intelligence/), one of the first of its kind!
-Outside the classroom, I enjoy coding, playing tennis and reading jigsaw puzzles.
+Outside the classroom, I enjoy coding, playing tennis and pickleball, and working on jigsaw puzzles.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjQ1ODIzXX0=
+eyJoaXN0b3J5IjpbLTE5MjQ3NDc1XX0=
 -->
