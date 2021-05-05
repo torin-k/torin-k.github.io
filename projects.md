@@ -25,7 +25,9 @@ You can find the final paper and Julia code [here](http://torink.me/SERVER/eigen
 
 * * *
 ### Myoelectric Interface for Neural Training (MINT)
-For two years, I worked with the [Slutzky Neuroprosthetics Laboratory](https://sites.northwestern.edu/slutzkylab/) to develop software used as a part of the  neurorehabilitation process for stroke survivors today.  This software returns biofeedback to stroke victims, whose muscles are connected to EMG signal sensors, in order to train these people regain motor function. This intelligent biofeedback system allows users to basically play a game by flexing and relaxing the muscles in their arms, and by doing so trains users to 
+For two years, I worked with the [Slutzky Neuroprosthetics Laboratory](https://sites.northwestern.edu/slutzkylab/) to develop software used as a part of the  neurorehabilitation process for stroke survivors today.  This software returns biofeedback to stroke victims, whose muscles are connected to EMG signal sensors, in order to train these people regain motor function. This intelligent biofeedback system allows users to basically play a game by flexing and relaxing the muscles in their arms, and by doing so trains users to use their muscles again for daily activities.
+
+Over the course of my time at the Slutzky Neuroprosthetics Laboratory, I rewrote their biofeedback system which used [Pygame](https://www.pygame.org/news) to make it easier to edit, less prone to bugs 
 
 The preliminary version of the MINT system was written about in the New York Post! You can see the article [here](https://nypost.com/2019/03/20/this-video-game-helps-stroke-victims-regain-movement/).
 
@@ -36,7 +38,7 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDY3MTE3MCwtMTUyNTcwODkzMywtMT
+eyJoaXN0b3J5IjpbLTMwNDI5NzE1NywtMTUyNTcwODkzMywtMT
 c0MzIxNDQzNywtMTU2ODcwNzM1MSwtMTQ4ODIwNzA5OSwtMTQ3
 ODgyMzIyNywtOTY5OTI4NjIzLC0yMDU1NDIzMjUwLDE2MzMwNT
 czMDIsMTAyMjc5MTQwMiwxMjA1MTY3MjEsLTE3ODk2NTE5NjNd
