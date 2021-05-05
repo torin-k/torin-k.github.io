@@ -1,5 +1,4 @@
 # Projects
-
 ### Boolean Circuits! (5/3/2021)
 My most recent project is an investigation into Boolean circuits. Not only is this model of computation exceedingly easy to reason about and work with, but it can be harnessed to help prove some of the most essential theorems and tackle some of the biggest questions in theoretical computer science. For the final project of [15-251](http://www.cs.cmu.edu/~15251/), I wrote a paper investigating and showcasing some of the central proofs related to Boolean circuits. I also came up with a few interesting exercises! You can view the document [here](http://torink.me/SERVER/Boolean%20Circuits!.pdf).
 * * *
@@ -24,8 +23,8 @@ For the final project of [21-241](http://coursecatalog.web.cmu.edu/schools-colle
 You can find the final paper and Julia code [here](http://torink.me/SERVER/eigenfinding.pdf).
 
 * * *
-### Myoelectric Interface for Neural Training (MINT)
-For two years, I worked with the [Slutzky Neuroprosthetics Laboratory](https://sites.northwestern.edu/slutzkylab/) to develop software used as a part of the  neurorehabilitation process for stroke survivors today.  This software returns biofeedback to stroke victims, whose muscles are connected to EMG signal sensors, in order to train these people regain motor function. This intelligent biofeedback system allows users to basically play a game by flexing and relaxing the muscles in their arms, and by doing so trains users to use their muscles again for daily activities.
+### Myoelectric Interface for Neural Training (MINT) (2018-2020)
+For three years, I worked with the [Slutzky Neuroprosthetics Laboratory](https://sites.northwestern.edu/slutzkylab/) to develop software used as a part of the  neurorehabilitation process for stroke survivors today.  This software returns biofeedback to stroke victims, whose muscles are connected to EMG signal sensors, in order to train these people regain motor function. This intelligent biofeedback system allows users to basically play a game by flexing and relaxing the muscles in their arms, and by doing so trains users to use their muscles again for daily activities.
 
 Over the course of my time at the Slutzky Neuroprosthetics Laboratory, I rewrote their biofeedback system which used [Pygame](https://www.pygame.org/news) almost completely from scratch to:
 * Add additional functionality to training (which has shown a positive increase in helping users regain motor function).
@@ -43,9 +42,9 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk0Mzg0NDQsLTY4ODg5MjgzOSwtMT
-UyNTcwODkzMywtMTc0MzIxNDQzNywtMTU2ODcwNzM1MSwtMTQ4
-ODIwNzA5OSwtMTQ3ODgyMzIyNywtOTY5OTI4NjIzLC0yMDU1ND
-IzMjUwLDE2MzMwNTczMDIsMTAyMjc5MTQwMiwxMjA1MTY3MjEs
-LTE3ODk2NTE5NjNdfQ==
+eyJoaXN0b3J5IjpbMTgwMjM4NTQ4MywtNjg4ODkyODM5LC0xNT
+I1NzA4OTMzLC0xNzQzMjE0NDM3LC0xNTY4NzA3MzUxLC0xNDg4
+MjA3MDk5LC0xNDc4ODIzMjI3LC05Njk5Mjg2MjMsLTIwNTU0Mj
+MyNTAsMTYzMzA1NzMwMiwxMDIyNzkxNDAyLDEyMDUxNjcyMSwt
+MTc4OTY1MTk2M119
 -->
