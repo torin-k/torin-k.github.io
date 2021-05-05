@@ -31,7 +31,6 @@ Over the course of my time at the Slutzky Neuroprosthetics Laboratory, I rewrote
 * Add additional functionality to training (which has shown a positive increase in helping users regain motor function).
 * Make the system easier for participants to interact with and use.
 * Allow researchers to more easily modify settings, increases in difficulty, etc.
-* Add simpler, automated calibration technology for users to 
 * Make the software less prone to bugs and crashing.
 To do this, I used a variety of Python libraries as well as [Blender](https://www.blender.org/), a 3D creation suite.
 
@@ -44,9 +43,9 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODg5MjgzOSwtMTUyNTcwODkzMywtMT
-c0MzIxNDQzNywtMTU2ODcwNzM1MSwtMTQ4ODIwNzA5OSwtMTQ3
-ODgyMzIyNywtOTY5OTI4NjIzLC0yMDU1NDIzMjUwLDE2MzMwNT
-czMDIsMTAyMjc5MTQwMiwxMjA1MTY3MjEsLTE3ODk2NTE5NjNd
-fQ==
+eyJoaXN0b3J5IjpbLTE4NTk0Mzg0NDQsLTY4ODg5MjgzOSwtMT
+UyNTcwODkzMywtMTc0MzIxNDQzNywtMTU2ODcwNzM1MSwtMTQ4
+ODIwNzA5OSwtMTQ3ODgyMzIyNywtOTY5OTI4NjIzLC0yMDU1ND
+IzMjUwLDE2MzMwNTczMDIsMTAyMjc5MTQwMiwxMjA1MTY3MjEs
+LTE3ODk2NTE5NjNdfQ==
 -->
