@@ -36,15 +36,15 @@ To do this, I used a variety of Python libraries as well as [Blender](https://ww
 The preliminary version of the MINT system was written about in the New York Post! You can see the article [here](https://nypost.com/2019/03/20/this-video-game-helps-stroke-victims-regain-movement/).
 
 * * *
-### Iliac Vein Compression Model (10/15/2020)
+### Iliac Vein Compression Model (2019-2020)
 Over the course of multiple years, the [Midwest Cardiovascular Research Foundation](http://www.mcrfmd.com/) (MCRF) worked to develop a predictive model to predict [iliac vein compression syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4663376/) using non-invasive studies and clinical variables (i.e. age, weight), as opposed to the current gold standard intravascular ultrasound, an invasive surgery. Working with the foundation, I helped develop this model and build a mobile application using Apache Cordova so that researchers can quickly and easily use this model on real patients in practice. You can find the app on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.mcrfmd.iliac&hl=en_US&gl=US). You can find the publication on the model [here](https://pubmed.ncbi.nlm.nih.gov/33385981/).
 * * *
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjM4NTQ4MywtNjg4ODkyODM5LC0xNT
-I1NzA4OTMzLC0xNzQzMjE0NDM3LC0xNTY4NzA3MzUxLC0xNDg4
-MjA3MDk5LC0xNDc4ODIzMjI3LC05Njk5Mjg2MjMsLTIwNTU0Mj
-MyNTAsMTYzMzA1NzMwMiwxMDIyNzkxNDAyLDEyMDUxNjcyMSwt
-MTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbLTE4MDAxOTE1MTEsMTgwMjM4NTQ4MywtNj
+g4ODkyODM5LC0xNTI1NzA4OTMzLC0xNzQzMjE0NDM3LC0xNTY4
+NzA3MzUxLC0xNDg4MjA3MDk5LC0xNDc4ODIzMjI3LC05Njk5Mj
+g2MjMsLTIwNTU0MjMyNTAsMTYzMzA1NzMwMiwxMDIyNzkxNDAy
+LDEyMDUxNjcyMSwtMTc4OTY1MTk2M119
 -->
