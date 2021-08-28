@@ -3,9 +3,10 @@
 ## 15-213
 | Description | Link |
 |--|--|
-| course page | https://www.cs.cmu.edu/~213/ |
-
+| course page | https://www.cs.cmu.edu/~213 |
+| piazza | https://piazza.com/class/kr9vqwncw253c4 |
+| OH queue | https://cmu.ohqueue.com |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTI1MjY0NF19
+eyJoaXN0b3J5IjpbMTY1NDM5MTkxOSwtNjA5MjUyNjQ0XX0=
 -->
