@@ -10,10 +10,10 @@
 ## 15-281
 | Description | Link |
 |--|--|
-| course page | https://www.cs.cmu.edu/~213 |
+| course canvas | https://canvas.cmu.edu/courses/24666 |
 | piazza | https://piazza.com/class/kr9vqwncw253c4 |
 | OH queue | https://cmu.ohqueue.com |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQwMjAyMTEsLTYwOTI1MjY0NF19
+eyJoaXN0b3J5IjpbMTA3ODU0MDc2MCwtNjA5MjUyNjQ0XX0=
 -->
