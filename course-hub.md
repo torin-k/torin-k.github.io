@@ -14,7 +14,7 @@
 | course diderot | https://www.diderot.one/course/101 |
 | OH queue | https://cmu.ohqueue.com |
 
-## 36-218
+## Probability Theory for Computer Scientists | 36-218
 | Description | Link |
 |--|--|
 |  |  |
@@ -22,14 +22,12 @@
 ## Causality and Machine Learning | 80-516
 | Description | Link |
 |--|--|
-|  |  |
+| course canca |  |
 
-## Topics of Law: Introduction to Intellectual Property Law
-
-66221
+## Topics of Law: Introduction to Intellectual Property Law | 66-221
 | Description | Link |
 |--|--|
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE5OTY3NjIwLC02MDkyNTI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTExMjkxMzI5NDcsLTYwOTI1MjY0NF19
 -->
