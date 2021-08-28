@@ -11,9 +11,15 @@
 | Description | Link |
 |--|--|
 | course canvas | https://canvas.cmu.edu/courses/24666 |
-| piazza | https://piazza.com/class/kr9vqwncw253c4 |
+| course diderot | https://www.diderot.one/course/101 |
 | OH queue | https://cmu.ohqueue.com |
 
+## 36-218
+| Description | Link |
+|--|--|
+| course canvas | https://canvas.cmu.edu/courses/24666 |
+| course diderot | https://www.diderot.one/course/101 |
+| OH queue | https://cmu.ohqueue.com |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODU0MDc2MCwtNjA5MjUyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTEwMjA5MzQ0NzYsLTYwOTI1MjY0NF19
 -->
