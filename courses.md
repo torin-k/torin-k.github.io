@@ -6,7 +6,7 @@
 | course page | https://www.cs.cmu.edu/~213 |
 | piazza | https://piazza.com/class/kr9vqwncw253c4 |
 | OH queue | https://cmu.ohqueue.com |
-labs - 50%, written assignments - 20%, 
+labs - 50%, written assignments - 20%, final exam - 30%
 
 ## Artificial Intelligence: Representation and Problem Solving | 15-281
 | Description | Link |
@@ -30,5 +30,5 @@ labs - 50%, written assignments - 20%,
 |--|--|
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MDE2MTExLC0xNTEyMzkyNDI5XX0=
+eyJoaXN0b3J5IjpbNDM4MDg1OTY5LC0xNTEyMzkyNDI5XX0=
 -->
