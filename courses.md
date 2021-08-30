@@ -19,6 +19,7 @@ labs - 50%, written assignments - 20%, final exam - 30%
 | Description | Link |
 |--|--|
 |  |  |
+homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midterm - 15%, participation - 5%
 
 ## Causality and Machine Learning | 80-516
 | Description | Link |
@@ -31,6 +32,6 @@ attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45%
 |--|--|
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjAyMTAyLDEyOTk3OTUxLDQzODA4NT
-k2OSwtMTUxMjM5MjQyOV19
+eyJoaXN0b3J5IjpbLTEyMjM3NDgwNjAsMjA0NjAyMTAyLDEyOT
+k3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
 -->
