@@ -19,6 +19,7 @@ labs - 50%, written assignments - 20%, final exam - 30%
 | Description | Link |
 |--|--|
 | course canvas | https://canvas.cmu.edu/courses/25540 |
+| ISLE | https://isle.stat.cmu.edu/dashboard/ |
 homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midterm - 15%, participation - 5%
 
 ## Causality and Machine Learning | 80-516
@@ -32,6 +33,7 @@ attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45%
 |--|--|
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzMwMTA5MywyMDQ2MDIxMDIsMTI5OT
-c5NTEsNDM4MDg1OTY5LC0xNTEyMzkyNDI5XX0=
+eyJoaXN0b3J5IjpbLTI3NzI4NzY0OSwtMTI3MzAxMDkzLDIwND
+YwMjEwMiwxMjk5Nzk1MSw0MzgwODU5NjksLTE1MTIzOTI0Mjld
+fQ==
 -->
