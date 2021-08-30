@@ -24,12 +24,13 @@ labs - 50%, written assignments - 20%, final exam - 30%
 | Description | Link |
 |--|--|
 | course canvas | https://canvas.cmu.edu/courses/25573 |
-attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45% (proposal - 10%, project - 
+attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45% (proposal - 10%, project - 25%, presentation - 10%)
+
 ## Topics of Law: Introduction to Intellectual Property Law | 66-221
 | Description | Link |
 |--|--|
 |  |  |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjk4OTIzMCwxMjk5Nzk1MSw0MzgwOD
-U5NjksLTE1MTIzOTI0MjldfQ==
+eyJoaXN0b3J5IjpbMjA0NjAyMTAyLDEyOTk3OTUxLDQzODA4NT
+k2OSwtMTUxMjM5MjQyOV19
 -->
