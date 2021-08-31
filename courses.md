@@ -31,9 +31,9 @@ attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45%
 ## Topics of Law: Introduction to Intellectual Property Law | 66-221
 | Description | Link |
 |--|--|
-|  |  |
+| lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzI4NzY0OSwtMTI3MzAxMDkzLDIwND
-YwMjEwMiwxMjk5Nzk1MSw0MzgwODU5NjksLTE1MTIzOTI0Mjld
-fQ==
+eyJoaXN0b3J5IjpbLTEyNzIwNjQ2MywtMjc3Mjg3NjQ5LC0xMj
+czMDEwOTMsMjA0NjAyMTAyLDEyOTk3OTUxLDQzODA4NTk2OSwt
+MTUxMjM5MjQyOV19
 -->
