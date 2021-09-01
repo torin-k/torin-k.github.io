@@ -31,9 +31,10 @@ Three categories of ML:
 	 - Nearest-neighbor, decision tree, regression, NN
  2. Unsupervised (GMM, K-means, PCA)
  3. Reinforcement - taught by the environment, learns via exploration and costs/rewards
-	- We want to find how current state and action influence next state, that is learn the function `f(S_current, A) = S_future` so we can choose the optimal action `A` to get to goal `S_fut`
+	- We want to find how current state and action influence next state, that is learn the function `f(S_current, A) = S_future` so we can choose the optimal action `A` to get to goal `S_future`.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTE3NDc1MCwtNjkyNTAwMDAxLC02Nj
+eyJoaXN0b3J5IjpbLTE3MTkyNTk1OCwtNjkyNTAwMDAxLC02Nj
 Q2MTkxNjJdfQ==
 -->
