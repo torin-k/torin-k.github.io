@@ -39,9 +39,9 @@ Three categories of ML:
 Benefits of causal thinking:
 
  - Dependence vs. causality - smoking causes yellow fingers and lung cancer, but avoiding yellow fingers won't reduce cancer!
- - Simpson's Paradox - 
+ - Simpson's Paradox - if we don't account for certain variables, we see weird results! This is due to effects on sample size. If we 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NTYxODg0MywtNTc3MzY4MzcxLC0xNz
-E5MjU5NTgsLTY5MjUwMDAwMSwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbLTE0MTQxMjg4NzgsLTU3NzM2ODM3MSwtMT
+cxOTI1OTU4LC02OTI1MDAwMDEsLTY2NDYxOTE2Ml19
 -->
