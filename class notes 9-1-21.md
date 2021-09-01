@@ -32,9 +32,10 @@ Three categories of ML:
  2. Unsupervised (GMM, K-means, PCA)
  3. Reinforcement - taught by the environment, learns via exploration and costs/rewards
 	- We want to find how current state and action influence next state, that is learn the function `f(S_current, A) = S_future` so we can choose the optimal action `A` to get to goal `S_future`.
-In
+
+*In most problems where deep learning is the best solution, we aim to find a `Y` given `X` where `Y` is the cause of `X` (i.e. medical diagnosis).*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMzNzY5MTczLC0xNzE5MjU5NTgsLTY5Mj
-UwMDAwMSwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbLTU3NzM2ODM3MSwtMTcxOTI1OTU4LC02OT
+I1MDAwMDEsLTY2NDYxOTE2Ml19
 -->
