@@ -5,9 +5,9 @@
 **Artificial intelligence** - imitating human behavior or computational rationality?
 Three current problems:
 
- - Prediction
- - Intervention
- - Counteractuall
+ - Prediction - probability of `e1` given `e2` happens naturally
+ - Intervention - probability of `e1` given we force `e2` to be true
+ - Counterfactual
 
 **Machine learning**:
 
@@ -28,5 +28,5 @@ Three categories of ML:
  3. Reinforcement - taught by the environment, learns via exploration
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDYzODI2MCwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbMjAzMjU1MTc1NiwtNjY0NjE5MTYyXX0=
 -->
