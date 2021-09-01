@@ -10,7 +10,8 @@ Three current problems:
  - Counterfactual - probability of `e1` if `e2` had been true, even though we know `e2` to not be true
 Investigating causal structure:
 - If `X` causes `Y`, then `P(Y | do X=X1) = P(Y | X=X1)`
-- If `Y` causes `X`, then `P(Y | do X=X1) = P(Y)` (as `P(Y)` is )
+- If `Y` causes `X`, then `P(Y | do X=X1) = P(Y)` (as `Y` is not modified by `X`)
+
 
 **Machine learning**:
 
@@ -31,5 +32,5 @@ Three categories of ML:
  3. Reinforcement - taught by the environment, learns via exploration
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDk5OTIwNSwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbNDMxNTMwNzM1LC02NjQ2MTkxNjJdfQ==
 -->
