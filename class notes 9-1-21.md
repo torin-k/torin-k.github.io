@@ -16,7 +16,6 @@ Three components of ML:
  3. Algorithm - what mechanism do we actually use to leverage data to solve our task?
 
 Three categories of ML:
-
  1. Supervised - given a set of labeled training data
 	 - want to predict unseen examples well (avoid over/under-fitting)
 	 - Nearest-neighbor, decision tree, regression, NN
@@ -24,5 +23,5 @@ Three categories of ML:
  3. Reinforcement - taught by the environment, learns via exploration
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjA2MDI5NiwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbLTE2MjEwNTIyNiwtNjY0NjE5MTYyXX0=
 -->
