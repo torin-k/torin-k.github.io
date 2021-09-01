@@ -3,6 +3,11 @@
 *Last class: definition of causality, necessity for causal view*
 
 **Artificial intelligence** - imitating human behavior or computational rationality?
+Three current problems:
+
+ - Prediction
+ - Intervention
+ - Counteractuall
 
 **Machine learning**:
 
@@ -23,5 +28,5 @@ Three categories of ML:
  3. Reinforcement - taught by the environment, learns via exploration
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjEwNTIyNiwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbMTA0NDYzODI2MCwtNjY0NjE5MTYyXX0=
 -->
