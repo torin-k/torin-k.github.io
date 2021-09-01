@@ -9,8 +9,12 @@
  - Learning without being specifically programmed
  - Use data to improve knowledge via automated mechanisms
 
+Three components of ML:
 
+ 1. Data - what information do we have, and is it useful?
+ 2. Task - what do we aim to produce (discriminative, generative)
+ 3. Algorithm - what mechanism do we actually use to leva
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDYxOTE2Ml19
+eyJoaXN0b3J5IjpbMTk3NjU3MTMzMywtNjY0NjE5MTYyXX0=
 -->
