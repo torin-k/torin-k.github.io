@@ -2,13 +2,15 @@
 
 *Last class: definition of causality, necessity for causal view*
 
-Artificial intelligence - imitating human behavior or computational rationality?
+**Artificial intelligence** - imitating human behavior or computational rationality?
 
-Machine learning:
+**Machine learning**:
 
  - Learning without being specifically programmed
- - Use data to improve knowledge
+ - Use data to improve knowledge via automated mechanisms
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTUyNDE5NzRdfQ==
+eyJoaXN0b3J5IjpbLTY2NDYxOTE2Ml19
 -->
