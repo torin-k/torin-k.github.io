@@ -13,8 +13,14 @@ Three components of ML:
 
  1. Data - what information do we have, and is it useful?
  2. Task - what do we aim to produce (discriminative, generative)
- 3. Algorithm - what mechanism do we actually use to leva
+ 3. Algorithm - what mechanism do we actually use to leverage data to solve our task?
+
+Three categories of ML:
+
+ 1. Supervised
+ 2. Unsupervised
+ 3. Reinforcement - taught by the environment, learns via exploration
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjU3MTMzMywtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbLTE2MzcwMDM4MzksLTY2NDYxOTE2Ml19
 -->
