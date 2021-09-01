@@ -39,9 +39,10 @@ Three categories of ML:
 Benefits of causal thinking:
 
  - Dependence vs. causality - smoking causes yellow fingers and lung cancer, but avoiding yellow fingers won't reduce cancer!
- - Simpson's Paradox - if we don't account for certain variables, we see weird results! This is due to effects on sample size. If we look only at recovery rate, treatment A might seem worse than treatment B. But if it turns out that sicker people tend to get treatment A, it could be that treatment A 
+ - Simpson's Paradox - if we don't account for certain variables, we see weird results! This is due to effects on sample size. If we look only at recovery rate, treatment A might seem worse than treatment B. But if it turns out that sicker people tend to get treatment A, it could be that treatment A is actually better! (cholesterol increases with exercise, but this is because older people exercise more, and also have higher cholesterol).
+	 - As the *causal structure* is different than the *dependence *
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTYzMjM2NTIsLTU3NzM2ODM3MSwtMT
-cxOTI1OTU4LC02OTI1MDAwMDEsLTY2NDYxOTE2Ml19
+eyJoaXN0b3J5IjpbLTE2MjA4NTcxOCwtNTc3MzY4MzcxLC0xNz
+E5MjU5NTgsLTY5MjUwMDAwMSwtNjY0NjE5MTYyXX0=
 -->
