@@ -28,9 +28,9 @@ Three categories of ML:
  1. Supervised - given a set of labeled training data
 	 - want to predict unseen examples well (avoid over/under-fitting)
 	 - Nearest-neighbor, decision tree, regression, NN
- 2. Unsupervised (GMM, K-means)
+ 2. Unsupervised (GMM, K-means, PCA)
  3. Reinforcement - taught by the environment, learns via exploration
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMxNTMwNzM1LC02NjQ2MTkxNjJdfQ==
+eyJoaXN0b3J5IjpbMTM4MjI2MTczMSwtNjY0NjE5MTYyXX0=
 -->
