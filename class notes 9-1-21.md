@@ -2,7 +2,8 @@
 
 Last class: definition of causality, necessity for causal view
 
+Artificial intelligence - imitating human behavior or computational rationality?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTUzMzUyN119
+eyJoaXN0b3J5IjpbMzUzOTkwNzkyXX0=
 -->
