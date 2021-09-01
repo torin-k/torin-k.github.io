@@ -31,7 +31,9 @@ Three categories of ML:
 	 - Nearest-neighbor, decision tree, regression, NN
  2. Unsupervised (GMM, K-means, PCA)
  3. Reinforcement - taught by the environment, learns via exploration and costs/rewards
+ 4.	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MjUwMDAwMSwtNjY0NjE5MTYyXX0=
+eyJoaXN0b3J5IjpbLTE1MzcwNTE2OTUsLTY5MjUwMDAwMSwtNj
+Y0NjE5MTYyXX0=
 -->
