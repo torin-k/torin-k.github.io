@@ -5,6 +5,7 @@
 |--|--|
 | course page | https://www.cs.cmu.edu/~213 |
 | piazza | https://piazza.com/class/kr9vqwncw253c4 |
+| autolab | https://autolab.andrew.cmu.edu/courses/15213-f21/assessments |
 | OH queue | https://cmu.ohqueue.com |
 labs - 50%, written assignments - 20%, final exam - 30%
 
@@ -33,7 +34,7 @@ attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45%
 |--|--|
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzIwNjQ2MywtMjc3Mjg3NjQ5LC0xMj
-czMDEwOTMsMjA0NjAyMTAyLDEyOTk3OTUxLDQzODA4NTk2OSwt
-MTUxMjM5MjQyOV19
+eyJoaXN0b3J5IjpbMjc0MDI2NjA2LC0xMjcyMDY0NjMsLTI3Nz
+I4NzY0OSwtMTI3MzAxMDkzLDIwNDYwMjEwMiwxMjk5Nzk1MSw0
+MzgwODU5NjksLTE1MTIzOTI0MjldfQ==
 -->
