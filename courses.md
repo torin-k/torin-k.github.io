@@ -15,7 +15,7 @@ labs - 50%, written assignments - 20%, final exam - 30%
 | course canvas | https://canvas.cmu.edu/courses/24666 |
 | course diderot | https://www.diderot.one/course/101 |
 | OH queue | https://cmu.ohqueue.com |
-midterm one - 15%, midterm two - 15%, final - 30%, programming homework - 20%, written homework - 10%, 5% - online homework, 
+midterm one - 15%, midterm two - 15%, final - 30%, programming homework - 20%, written homework - 10%, 5% - online homework, 5% - participation
 
 ## Probability Theory for Computer Scientists | 36-218
 | Description | Link |
@@ -30,7 +30,7 @@ homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midter
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
 midterm - 50%, final - 40%, participation - 10%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTQxODQ3MjksMjc0MDI2NjA2LC0xMj
-cyMDY0NjMsLTI3NzI4NzY0OSwtMTI3MzAxMDkzLDIwNDYwMjEw
-MiwxMjk5Nzk1MSw0MzgwODU5NjksLTE1MTIzOTI0MjldfQ==
+eyJoaXN0b3J5IjpbLTEyOTMwMTAxOSwyNzQwMjY2MDYsLTEyNz
+IwNjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAy
+LDEyOTk3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
 -->
