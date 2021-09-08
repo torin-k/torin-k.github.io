@@ -23,18 +23,12 @@ labs - 50%, written assignments - 20%, final exam - 30%
 | ISLE | https://isle.stat.cmu.edu/dashboard/ |
 homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midterm - 15%, participation - 5%
 
-## Causality and Machine Learning | 80-516
-| Description | Link |
-|--|--|
-| course canvas | https://canvas.cmu.edu/courses/25573 |
-attendance - 5%, in-class discussions - 10%, homework - 40%, final project - 45% (proposal - 10%, project - 25%, presentation - 10%)
-
 ## Topics of Law: Introduction to Intellectual Property Law | 66-221
 | Description | Link |
 |--|--|
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0MDI2NjA2LC0xMjcyMDY0NjMsLTI3Nz
-I4NzY0OSwtMTI3MzAxMDkzLDIwNDYwMjEwMiwxMjk5Nzk1MSw0
-MzgwODU5NjksLTE1MTIzOTI0MjldfQ==
+eyJoaXN0b3J5IjpbLTEwNzQ3OTg0NCwyNzQwMjY2MDYsLTEyNz
+IwNjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAy
+LDEyOTk3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
 -->
