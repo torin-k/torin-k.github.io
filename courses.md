@@ -27,10 +27,11 @@ homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midter
 ## Topics of Law: Introduction to Intellectual Property Law | 66-221
 | Description | Link |
 |--|--|
+| course canvas | https://canvas.cmu.edu/courses/25908 |
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
 midterm - 50%, final - 40%, participation - 10%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMwMTAxOSwyNzQwMjY2MDYsLTEyNz
+eyJoaXN0b3J5IjpbMTU1MjkzMTg3NCwyNzQwMjY2MDYsLTEyNz
 IwNjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAy
 LDEyOTk3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
 -->
