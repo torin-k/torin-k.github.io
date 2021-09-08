@@ -27,8 +27,9 @@ homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midter
 | Description | Link |
 |--|--|
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
+midterm - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ3OTg0NCwyNzQwMjY2MDYsLTEyNz
-IwNjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAy
-LDEyOTk3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
+eyJoaXN0b3J5IjpbLTk0OTc4MzI1LDI3NDAyNjYwNiwtMTI3Mj
+A2NDYzLC0yNzcyODc2NDksLTEyNzMwMTA5MywyMDQ2MDIxMDIs
+MTI5OTc5NTEsNDM4MDg1OTY5LC0xNTEyMzkyNDI5XX0=
 -->
