@@ -6,7 +6,7 @@
 | course page | https://www.cs.cmu.edu/~213 |
 | piazza | https://piazza.com/class/kr9vqwncw253c4 |
 | autolab | https://autolab.andrew.cmu.edu/courses/15213-f21/assessments |
-| OH queue | https://cmu.ohqueue.com |
+| OH queue | https://cmqueue.xyz |
 labs - 50%, written assignments - 20%, final exam - 30%
 
 ## Artificial Intelligence: Representation and Problem Solving | 15-281
@@ -32,8 +32,8 @@ homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midter
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
 midterm - 50%, final - 40%, participation - 10%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzMDczNTMyLDE1NTI5MzE4NzQsMjc0MD
-I2NjA2LC0xMjcyMDY0NjMsLTI3NzI4NzY0OSwtMTI3MzAxMDkz
-LDIwNDYwMjEwMiwxMjk5Nzk1MSw0MzgwODU5NjksLTE1MTIzOT
-I0MjldfQ==
+eyJoaXN0b3J5IjpbLTE5Njc3OTYxMTAsMTU1MjkzMTg3NCwyNz
+QwMjY2MDYsLTEyNzIwNjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEw
+OTMsMjA0NjAyMTAyLDEyOTk3OTUxLDQzODA4NTk2OSwtMTUxMj
+M5MjQyOV19
 -->
