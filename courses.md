@@ -30,10 +30,10 @@ homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midter
 |--|--|
 | course canvas | https://canvas.cmu.edu/courses/25908 |
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
-midterm - 50%, final - 40%, participation - 10%
+midterm - 40%, final - 50%, participation - 10%
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njc3OTYxMTAsMTU1MjkzMTg3NCwyNz
-QwMjY2MDYsLTEyNzIwNjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEw
-OTMsMjA0NjAyMTAyLDEyOTk3OTUxLDQzODA4NTk2OSwtMTUxMj
-M5MjQyOV19
+eyJoaXN0b3J5IjpbLTE3Mzc5MTc0ODQsLTE5Njc3OTYxMTAsMT
+U1MjkzMTg3NCwyNzQwMjY2MDYsLTEyNzIwNjQ2MywtMjc3Mjg3
+NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAyLDEyOTk3OTUxLDQzOD
+A4NTk2OSwtMTUxMjM5MjQyOV19
 -->
