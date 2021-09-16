@@ -36,10 +36,10 @@ midterm - 40%, final - 50%, participation - 10%
 ## Research (Mohimani Lab)
 | Description | Link |
 |--|--|
-| https://gitlab.com/liucaomics/pkspathway/ |
+| PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTg1NDE0MDcsLTE3Mzc5MTc0ODQsLT
-E5Njc3OTYxMTAsMTU1MjkzMTg3NCwyNzQwMjY2MDYsLTEyNzIw
-NjQ2MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAyLD
-EyOTk3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
+eyJoaXN0b3J5IjpbNTgyMDg5OTcsLTE3Mzc5MTc0ODQsLTE5Nj
+c3OTYxMTAsMTU1MjkzMTg3NCwyNzQwMjY2MDYsLTEyNzIwNjQ2
+MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAyLDEyOT
+k3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
 -->
