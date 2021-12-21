@@ -4,6 +4,7 @@
 |  |  |
 |--|--|
 | course webpage | http://demo.clab.cs.cmu.edu/NLP/ |
+| textbook |  |
 midterm/final - 30%
 quizzes/homework - 40%
 group project - 30%
@@ -28,5 +29,5 @@ group project - 30%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTUzMDk4OV19
+eyJoaXN0b3J5IjpbLTE3MDUzMDQyMDVdfQ==
 -->
