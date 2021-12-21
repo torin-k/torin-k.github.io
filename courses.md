@@ -2,8 +2,12 @@
 
 ## Natural Language Processing | 11-411
 
+midterm/final - 30%
+quizzes/homework - 40%
+group project - 30%
 
 ## Modern Regression | 36-401
+
 
 ## Human Robot Interaction | 16-467
 
@@ -14,5 +18,5 @@
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzc3MTE3Nl19
+eyJoaXN0b3J5IjpbLTU1OTY5OTUzNV19
 -->
