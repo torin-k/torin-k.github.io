@@ -31,6 +31,7 @@ homework - 35%, final exam - 25%, higher grade midterm - 20%, lower grade midter
 |--|--|
 | course canvas | https://canvas.cmu.edu/courses/25908 |
 | lecture zoom link | [https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09](https://us02web.zoom.us/j/6821358093?pwd=UnErS091VDRpakFPU3hXUHNNLzV1QT09) |
+| USPTO | https://www.uspto.gov/ |
 midterm - 40%, final - 50%, participation - 10%
 
 ## Research (Mohimani Lab)
@@ -38,8 +39,8 @@ midterm - 40%, final - 50%, participation - 10%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMDg5OTcsLTE3Mzc5MTc0ODQsLTE5Nj
-c3OTYxMTAsMTU1MjkzMTg3NCwyNzQwMjY2MDYsLTEyNzIwNjQ2
-MywtMjc3Mjg3NjQ5LC0xMjczMDEwOTMsMjA0NjAyMTAyLDEyOT
-k3OTUxLDQzODA4NTk2OSwtMTUxMjM5MjQyOV19
+eyJoaXN0b3J5IjpbODU5MjA2NjE0LC0xNzM3OTE3NDg0LC0xOT
+Y3Nzk2MTEwLDE1NTI5MzE4NzQsMjc0MDI2NjA2LC0xMjcyMDY0
+NjMsLTI3NzI4NzY0OSwtMTI3MzAxMDkzLDIwNDYwMjEwMiwxMj
+k5Nzk1MSw0MzgwODU5NjksLTE1MTIzOTI0MjldfQ==
 -->
