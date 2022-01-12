@@ -3,7 +3,7 @@
 ## Natural Language Processing | 11-411
 |  |  |
 |--|--|
-| course webpage |  |
+| course webpage | https://canvas.cmu.edu/courses/26960 |
 | textbook |  |
 midterm - 15%
 final - 15%
@@ -31,5 +31,5 @@ group project - 30%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNjM4MDk2NSwtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbLTY3NzY4MDkyMiwtMTcwNTMwNDIwNV19
 -->
