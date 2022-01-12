@@ -4,7 +4,7 @@
 |  |  |
 |--|--|
 | course webpage | https://canvas.cmu.edu/courses/26960 |
-| textbook |  |
+| textbook | https://web.stanford.edu/~jurafsky/slp3/ |
 midterm - 15%
 final - 15%
 homework - 25% (6 total, 2 dropped)
@@ -31,5 +31,6 @@ group project - 30%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NzY4MDkyMiwtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbLTY1NjgyMTA0LC02Nzc2ODA5MjIsLTE3MD
+UzMDQyMDVdfQ==
 -->
