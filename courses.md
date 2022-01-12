@@ -5,8 +5,10 @@
 |--|--|
 | course webpage | http://demo.clab.cs.cmu.edu/NLP/ |
 | textbook |  |
-midterm/final - 30%
-quizzes/homework - 40%
+midterm - 15%
+final - 15%
+homework - 25% (6 total, 2 dropped)
+quizzes - 15% (10 total, 3 dropped)
 group project - 30%
 
 ## Modern Regression | 36-401
@@ -29,5 +31,5 @@ group project - 30%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUzMDQyMDVdfQ==
+eyJoaXN0b3J5IjpbMTg2MTY1NDk5MSwtMTcwNTMwNDIwNV19
 -->
