@@ -1,5 +1,15 @@
 # Torin's Courses (Spring 2022)
 
+## Introduction to Machine Learning | 10-315
+|  |  |
+|--|--|
+|  |  |
+midterm - 15%
+final - 15%
+homeworks - 48% (4, 12% each)
+QnA's - 20% (4, 5% each)
+Participation - 2%
+
 ## Natural Language Processing | 11-411
 |  |  |
 |--|--|
@@ -21,14 +31,11 @@ group project - 30%
 |--|--|
 |  |  |
 
-
-
-
 ## Research (Mohimani Lab)
 |||
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQwMzQ1MzUsLTY1NjgyMTA0LC02Nz
-c2ODA5MjIsLTE3MDUzMDQyMDVdfQ==
+eyJoaXN0b3J5IjpbMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3Nz
+Y4MDkyMiwtMTcwNTMwNDIwNV19
 -->
