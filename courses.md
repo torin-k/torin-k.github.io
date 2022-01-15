@@ -3,6 +3,8 @@
 ## Introduction to Machine Learning | 10-315
 |  |  |
 |--|--|
+| c
+| course canvas | https://canvas.cmu.edu/courses/27758 |
 |  |  |
 midterm - 15%
 final - 15%
@@ -36,6 +38,6 @@ group project - 30%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3Nz
-Y4MDkyMiwtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbLTEzMDg1NjI1MDEsMTQxMjQ4OTQ2NiwtNj
+U2ODIxMDQsLTY3NzY4MDkyMiwtMTcwNTMwNDIwNV19
 -->
