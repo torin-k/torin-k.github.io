@@ -21,16 +21,14 @@ group project - 30%
 |--|--|
 |  |  |
 
-## Introduction to Machine Learning | 10-315
-|  |  |
-|--|--|
-|  |  |
+
+
 
 ## Research (Mohimani Lab)
 |||
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjgyMTA0LC02Nzc2ODA5MjIsLTE3MD
-UzMDQyMDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDQwMzQ1MzUsLTY1NjgyMTA0LC02Nz
+c2ODA5MjIsLTE3MDUzMDQyMDVdfQ==
 -->
