@@ -9,8 +9,8 @@
 | gradescope | https://www.gradescope.com/courses/347970 |
 midterm - 15%
 final - 15%
-homeworks - 48% (4, 12% each)
-QnA's - 20% (4, 5% each)
+homework (4) - 48%
+QnA's (4) - 20%
 Participation - 2%
 
 ## Natural Language Processing | 11-411
@@ -18,6 +18,7 @@ Participation - 2%
 |--|--|
 | course webpage | https://canvas.cmu.edu/courses/26960 |
 | textbook | https://web.stanford.edu/~jurafsky/slp3/ |
+| gradescope | https://www.gradescope.com/courses/342149 |
 midterm - 15%
 final - 15%
 homework - 25% (6 total, 2 dropped)
@@ -39,6 +40,6 @@ group project - 30%
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4NzA4MDIsMTQxMjQ4OTQ2NiwtNj
+eyJoaXN0b3J5IjpbLTEzODI2MzczNDUsMTQxMjQ4OTQ2NiwtNj
 U2ODIxMDQsLTY3NzY4MDkyMiwtMTcwNTMwNDIwNV19
 -->
