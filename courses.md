@@ -30,7 +30,7 @@ group project - 30%
 |--|--|
 |  |  |
 homework - 40%
-take-home "tests" - 60% (
+take-home "tests" - 60% (3, each 20%)
 
 ## Human Robot Interaction | 16-467
 |  |  |
@@ -42,7 +42,7 @@ take-home "tests" - 60% (
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTc3MTAxMywxNzI4ODI2NTQ1LC0xMz
-gyNjM3MzQ1LDE0MTI0ODk0NjYsLTY1NjgyMTA0LC02Nzc2ODA5
-MjIsLTE3MDUzMDQyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMT
+M4MjYzNzM0NSwxNDEyNDg5NDY2LC02NTY4MjEwNCwtNjc3Njgw
+OTIyLC0xNzA1MzA0MjA1XX0=
 -->
