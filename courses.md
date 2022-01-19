@@ -35,14 +35,15 @@ take-home "tests" - 60% (3, each 20%)
 ## Human Robot Interaction | 16-467
 |  |  |
 |--|--|
-|  |  |
+| canvas | https://canvas.cmu.edu/courses/28231 |
+| schedule | https://hadmoni.notion.site/31607ea762bc43e6bf0a0e0073d1b3ad?v=5710d68b6da442ccac206ceec96b1b6b |
 
 ## Research (Mohimani Lab)
 |||
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMDg3MzAzLC0xNzEzNDU0MTc3LDE3Mj
-g4MjY1NDUsLTEzODI2MzczNDUsMTQxMjQ4OTQ2NiwtNjU2ODIx
-MDQsLTY3NzY4MDkyMiwtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbLTEyMjE2NTgwNTAsLTE3MTM0NTQxNzcsMT
+cyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEyNDg5NDY2LC02NTY4
+MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0MjA1XX0=
 -->
