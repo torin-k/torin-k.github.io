@@ -28,7 +28,7 @@ group project - 30%
 ## Modern Regression | 36-401
 |  |  |
 |--|--|
-|  |  |
+| course canvas | https://canvas.cmu.edu/courses/28231 |
 homework - 40%
 take-home "tests" - 60% (3, each 20%)
 
@@ -42,7 +42,7 @@ take-home "tests" - 60% (3, each 20%)
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMT
-M4MjYzNzM0NSwxNDEyNDg5NDY2LC02NTY4MjEwNCwtNjc3Njgw
-OTIyLC0xNzA1MzA0MjA1XX0=
+eyJoaXN0b3J5IjpbMTY5ODI3MjQ4MiwtMTcxMzQ1NDE3NywxNz
+I4ODI2NTQ1LC0xMzgyNjM3MzQ1LDE0MTI0ODk0NjYsLTY1Njgy
+MTA0LC02Nzc2ODA5MjIsLTE3MDUzMDQyMDVdfQ==
 -->
