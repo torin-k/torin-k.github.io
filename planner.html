@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Planner</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+<center>
+  <h1 id="torins-planner-spring-2022">Torin’s Planner (Spring 2022)</h1>
+
+  <table style="width: 75%">
+  <thead>
+    <tr>
+    <th style="width:14.2857%">ML (10-315)</th>
+    <th style="width:14.2857%">NLP (11-411)</th>
+    <th style="width:14.2857%">MR (36-401)</th>
+    <th style="width:14.2857%">HRI (16-467)</th>
+    <th style="width:14.2857%">TA (15-251)</th>
+    <th style="width:14.2857%">Research</th>
+    <th style="width:14.2857%">Extra</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <td>
+      <textarea rows="10" id="ml_todo"></textarea>
+    </td>
+    <td>
+      <textarea rows="10" id="nlp_todo"></textarea>
+    </td>
+    <td>
+      <textarea rows="10" id="mr_todo"></textarea>
+    </td>
+    <td>
+      <textarea rows="10" id="hri_todo"></textarea>
+    </td>
+    <td>
+      <textarea rows="10" id="ta_todo"></textarea>
+    </td>
+    <td>
+      <textarea rows="10" id="research_todo"></textarea>
+    </td>
+    <td>
+      <textarea rows="10" id="extra_todo"></textarea>
+    </td>
+    </tr>
+  </tbody>
+  </table>
+</center>
+</body>
+<script>
+  const todos = ["ml_todo",
+                 "nlp_todo",
+                 "mr_todo",
+                 "hri_todo",
+                 "ta_todo",
+                 "research_todo",
+                 "extra_todo"]
+  todos.forEach(function (item, index) {
+    let scratchpad = document.getElementById(item)
+    scratchpad.value = localStorage.getItem(item)
+
+    let cancel
+    scratchpad.addEventListener("keyup", event => {
+      if (cancel) clearTimeout(cancel)
+      cancel = setTimeout(() => {
+        localStorage.setItem(item, event.target.value)
+      }, 1)
+    })
+  });
+</script>
+</html>
