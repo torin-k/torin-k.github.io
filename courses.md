@@ -44,8 +44,11 @@ take-home "tests" - 60% (3, each 20%)
 |||
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
+quizzes - 10% (11, 1 drop)
+in-class exercises - 20%
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzkxNzQ0OCwtMTc1MjI5MTA5OCwtMT
+eyJoaXN0b3J5IjpbLTUwNzUzMDE1MCwtMTc1MjI5MTA5OCwtMT
 IyMTY1ODA1MCwtMTcxMzQ1NDE3NywxNzI4ODI2NTQ1LC0xMzgy
 NjM3MzQ1LDE0MTI0ODk0NjYsLTY1NjgyMTA0LC02Nzc2ODA5Mj
 IsLTE3MDUzMDQyMDVdfQ==
