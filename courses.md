@@ -39,13 +39,14 @@ take-home "tests" - 60% (3, each 20%)
 | piazza | https://piazza.com/class/kyhq2lyxc536uf |
 | schedule | https://hadmoni.notion.site/31607ea762bc43e6bf0a0e0073d1b3ad?v=5710d68b6da442ccac206ceec96b1b6b |
 
+
 ## Research (Mohimani Lab)
 |||
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAsLT
-E3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEy
-NDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0Mj
-A1XX0=
+eyJoaXN0b3J5IjpbLTY1NzkxNzQ0OCwtMTc1MjI5MTA5OCwtMT
+IyMTY1ODA1MCwtMTcxMzQ1NDE3NywxNzI4ODI2NTQ1LC0xMzgy
+NjM3MzQ1LDE0MTI0ODk0NjYsLTY1NjgyMTA0LC02Nzc2ODA5Mj
+IsLTE3MDUzMDQyMDVdfQ==
 -->
