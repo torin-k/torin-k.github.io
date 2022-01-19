@@ -50,16 +50,29 @@
     </tr>
   </tbody>
   </table>
+  <button onclick="download_report()">Download</button>
+  <button onclick="clear_all()">Clear All</button>
 </center>
 </body>
 <script>
-  const todos = ["ml_todo",
-                 "nlp_todo",
-                 "mr_todo",
-                 "hri_todo",
-                 "ta_todo",
-                 "research_todo",
-                 "extra_todo"]
+  const todos = [
+    "ml_todo",
+    "nlp_todo",
+    "mr_todo",
+    "hri_todo",
+    "ta_todo",
+    "research_todo",
+    "extra_todo"
+  ]
+  const todo_names = {
+    "ml_todo": "ML (10-315)",
+    "nlp_todo": "NLP (11-411)",
+    "mr_todo": "MR (36-401)",
+    "hri_todo": "HRI (16-467)",
+    "ta_todo": "TA (15-251)",
+    "research_todo": "Research",
+    "extra_todo": "Extra"
+  };
   todos.forEach(function (item, index) {
     let scratchpad = document.getElementById(item)
     scratchpad.value = localStorage.getItem(item)
@@ -72,5 +85,37 @@
       }, 1)
     })
   });
-</script>
+
+  function clear_all() {
+    todos.forEach(function (item, index) {
+      let scratchpad = document.getElementById(item)
+      scratchpad.value = ""
+      localStorage.setItem(item, "")
+    });
+  }
+
+  function download_report() {
+    const filename = (new Date(Date.now()).toLocaleString().split(',')[0]);
+    let text = ""
+    todos.forEach(function (item, index) {
+      let scratchpad = document.getElementById(item)
+      text += todo_names[item] + "\n----------\n"
+      text += scratchpad.value + "\n\n"
+    });
+    download("planner_report_" + filename + ".txt", text)
+  }
+
+  function download(filename, text) {
+    var element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+    element.setAttribute('download', filename);
+
+    element.style.display = 'none';
+    document.body.appendChild(element);
+
+    element.click();
+
+    document.body.removeChild(element);
+  }
+  </script>
 </html>
