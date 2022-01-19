@@ -36,6 +36,7 @@ take-home "tests" - 60% (3, each 20%)
 |  |  |
 |--|--|
 | canvas | https://canvas.cmu.edu/courses/28231 |
+| piazza | https://piazza.com/class/kyhq2lyxc536uf |
 | schedule | https://hadmoni.notion.site/31607ea762bc43e6bf0a0e0073d1b3ad?v=5710d68b6da442ccac206ceec96b1b6b |
 
 ## Research (Mohimani Lab)
@@ -43,7 +44,8 @@ take-home "tests" - 60% (3, each 20%)
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE2NTgwNTAsLTE3MTM0NTQxNzcsMT
-cyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEyNDg5NDY2LC02NTY4
-MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0MjA1XX0=
+eyJoaXN0b3J5IjpbLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAsLT
+E3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEy
+NDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0Mj
+A1XX0=
 -->
