@@ -38,17 +38,20 @@ take-home "tests" - 60% (3, each 20%)
 | canvas | https://canvas.cmu.edu/courses/28231 |
 | piazza | https://piazza.com/class/kyhq2lyxc536uf |
 | schedule | https://hadmoni.notion.site/31607ea762bc43e6bf0a0e0073d1b3ad?v=5710d68b6da442ccac206ceec96b1b6b |
-
+quizzes - 10% (11, 1 drop)
+in-class exercises - 20%
+mini-projects - 25%
+term project - 20%
+final exam - 20%
+participation - 5%
 
 ## Research (Mohimani Lab)
 |||
 |--|--|
 | PKSpathway Repo | https://gitlab.com/liucaomics/pkspathway/ |
-quizzes - 10% (11, 1 drop)
-in-class exercises - 20%
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzUzMDE1MCwtMTc1MjI5MTA5OCwtMT
+eyJoaXN0b3J5IjpbLTU2NjI3ODM4MSwtMTc1MjI5MTA5OCwtMT
 IyMTY1ODA1MCwtMTcxMzQ1NDE3NywxNzI4ODI2NTQ1LC0xMzgy
 NjM3MzQ1LDE0MTI0ODk0NjYsLTY1NjgyMTA0LC02Nzc2ODA5Mj
 IsLTE3MDUzMDQyMDVdfQ==
