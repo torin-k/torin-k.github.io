@@ -3,15 +3,20 @@
 ##  Human Information Processing and Artificial Intelligence | 85-213
 |  |  |
 |--|--|
-| boop | https://www.cs.cmu.edu/~aarti/Class/10315_Spring22/ |
+| boop | boop.org |
+
+##  Quantum Computation | 15-459
+|  |  |
+|--|--|
+| boop | boop.org |
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjU4MTk4NjUsLTE3NTIyOTEwOTgsLT
-EyMjE2NTgwNTAsLTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4
-MjYzNzM0NSwxNDEyNDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOT
-IyLC0xNzA1MzA0MjA1XX0=
+eyJoaXN0b3J5IjpbMjgzNzA5ODM0LC0xNzUyMjkxMDk4LC0xMj
+IxNjU4MDUwLC0xNzEzNDU0MTc3LDE3Mjg4MjY1NDUsLTEzODI2
+MzczNDUsMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3NzY4MDkyMi
+wtMTcwNTMwNDIwNV19
 -->
