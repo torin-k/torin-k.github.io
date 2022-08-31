@@ -1,7 +1,7 @@
 # Projects
 
 ### Torin & Roshan Question Generation (6/8/2022)
-My friend Roshan and I made a cool pipeline which takes in a Wikipedia article and automatically generates questions about the article. We use multiple pre-trained transformer models for initial question generation, topical modelling, grammar evaluation, etc. You can check out the code [here](https://github.com/TorinK2/TR-Question-Generation)!
+My friend [Roshan](https://www.linkedin.com/in/roshan-thekiniath-1650a81b4/) and I made a cool pipeline which takes in a Wikipedia article and automatically generates questions about the article. We use multiple pre-trained transformer models for initial question generation, topical modelling, grammar evaluation, etc. You can check out the code [here](https://github.com/TorinK2/TR-Question-Generation)!
 
 ![qg-pipeline](http://torink.me/SERVER/qg.png)
 
@@ -49,10 +49,10 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQzOTk5OTAsMTUwMzkyMDMxOCwtMT
-gwMDE5MTUxMSwxODAyMzg1NDgzLC02ODg4OTI4MzksLTE1MjU3
-MDg5MzMsLTE3NDMyMTQ0MzcsLTE1Njg3MDczNTEsLTE0ODgyMD
-cwOTksLTE0Nzg4MjMyMjcsLTk2OTkyODYyMywtMjA1NTQyMzI1
-MCwxNjMzMDU3MzAyLDEwMjI3OTE0MDIsMTIwNTE2NzIxLC0xNz
-g5NjUxOTYzXX0=
+eyJoaXN0b3J5IjpbMTE0ODc3NjAxNCwxNTAzOTIwMzE4LC0xOD
+AwMTkxNTExLDE4MDIzODU0ODMsLTY4ODg5MjgzOSwtMTUyNTcw
+ODkzMywtMTc0MzIxNDQzNywtMTU2ODcwNzM1MSwtMTQ4ODIwNz
+A5OSwtMTQ3ODgyMzIyNywtOTY5OTI4NjIzLC0yMDU1NDIzMjUw
+LDE2MzMwNTczMDIsMTAyMjc5MTQwMiwxMjA1MTY3MjEsLTE3OD
+k2NTE5NjNdfQ==
 -->
