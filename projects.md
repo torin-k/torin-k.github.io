@@ -1,4 +1,9 @@
 # Projects
+
+### Torin & Roshan Question Generation (6/8/2022)
+My friend Roshan and I made a 
+
+
 ### Boolean Circuits! (5/3/2021)
 My most recent project is an investigation into Boolean circuits. Not only is this model of computation exceedingly easy to reason about and work with, but it can be harnessed to help prove some of the most essential theorems and tackle some of the biggest questions in theoretical computer science. For the final project of [15-251](http://www.cs.cmu.edu/~15251/), I wrote a paper investigating and showcasing some of the central proofs related to Boolean circuits. I also came up with a few interesting exercises! You can view the document [here](http://torink.me/SERVER/Boolean%20Circuits!.pdf).
 * * *
@@ -42,9 +47,9 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAxOTE1MTEsMTgwMjM4NTQ4MywtNj
-g4ODkyODM5LC0xNTI1NzA4OTMzLC0xNzQzMjE0NDM3LC0xNTY4
-NzA3MzUxLC0xNDg4MjA3MDk5LC0xNDc4ODIzMjI3LC05Njk5Mj
-g2MjMsLTIwNTU0MjMyNTAsMTYzMzA1NzMwMiwxMDIyNzkxNDAy
-LDEyMDUxNjcyMSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbMTM3MTk2Mjg2MywtMTgwMDE5MTUxMSwxOD
+AyMzg1NDgzLC02ODg4OTI4MzksLTE1MjU3MDg5MzMsLTE3NDMy
+MTQ0MzcsLTE1Njg3MDczNTEsLTE0ODgyMDcwOTksLTE0Nzg4Mj
+MyMjcsLTk2OTkyODYyMywtMjA1NTQyMzI1MCwxNjMzMDU3MzAy
+LDEwMjI3OTE0MDIsMTIwNTE2NzIxLC0xNzg5NjUxOTYzXX0=
 -->
