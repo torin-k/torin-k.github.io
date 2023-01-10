@@ -1,4 +1,4 @@
-# Torin's Courses (Fall 2022)
+# Torin's Courses (Spring 2023)
 
 ##  Human Information Processing and Artificial Intelligence | 85-213
 |  |  |
@@ -15,8 +15,8 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNzA5ODM0LC0xNzUyMjkxMDk4LC0xMj
-IxNjU4MDUwLC0xNzEzNDU0MTc3LDE3Mjg4MjY1NDUsLTEzODI2
-MzczNDUsMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3NzY4MDkyMi
-wtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbMTUzNDgwMzAwMywyODM3MDk4MzQsLTE3NT
+IyOTEwOTgsLTEyMjE2NTgwNTAsLTE3MTM0NTQxNzcsMTcyODgy
+NjU0NSwtMTM4MjYzNzM0NSwxNDEyNDg5NDY2LC02NTY4MjEwNC
+wtNjc3NjgwOTIyLC0xNzA1MzA0MjA1XX0=
 -->
