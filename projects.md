@@ -42,6 +42,10 @@ To do this, I used a variety of Python libraries as well as [Blender](https://ww
 
 The preliminary version of the MINT system was written about in the New York Post! You can see the article [here](https://nypost.com/2019/03/20/this-video-game-helps-stroke-victims-regain-movement/).
 
+***
+### March 17th: An Interactive Digital Story
+_March 17th_ is a project that mixes computer science and literature, providing a new take on the classic murder mystery. This HTML/CSS/JS story takes readers through the night of March 17th and the murderous Entright family, leading them through a series of riddles to reach the end. The digital format and presentation provide unique advantages, making the story far more interactive and user-centered. Effectively, _March 17th_ transforms the murder mystery from a retrospective, passively read narrative to an actively engaging, conclusion-driven experience – instead of reading about a detective figuring out the crime, the reader figures out the crime themselves.
+
 * * *
 ### Iliac Vein Compression Model (2019-2020)
 Over the course of multiple years, the [Midwest Cardiovascular Research Foundation](http://www.mcrfmd.com/) (MCRF) worked to develop a predictive model to predict [iliac vein compression syndrome](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4663376/) using non-invasive studies and clinical variables (i.e. age, weight), as opposed to the current gold standard intravascular ultrasound, an invasive surgery. Working with the foundation, I helped develop this model and build a mobile application using Apache Cordova so that researchers can quickly and easily use this model on real patients in practice. You can find the app on the Google Play Store [here](https://play.google.com/store/apps/details?id=com.mcrfmd.iliac&hl=en_US&gl=US). You can find the publication on the model [here](https://pubmed.ncbi.nlm.nih.gov/33385981/).
@@ -49,10 +53,10 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODc3NjAxNCwxNTAzOTIwMzE4LC0xOD
-AwMTkxNTExLDE4MDIzODU0ODMsLTY4ODg5MjgzOSwtMTUyNTcw
-ODkzMywtMTc0MzIxNDQzNywtMTU2ODcwNzM1MSwtMTQ4ODIwNz
-A5OSwtMTQ3ODgyMzIyNywtOTY5OTI4NjIzLC0yMDU1NDIzMjUw
-LDE2MzMwNTczMDIsMTAyMjc5MTQwMiwxMjA1MTY3MjEsLTE3OD
-k2NTE5NjNdfQ==
+eyJoaXN0b3J5IjpbLTE2NjE0ODA4MjksMTE0ODc3NjAxNCwxNT
+AzOTIwMzE4LC0xODAwMTkxNTExLDE4MDIzODU0ODMsLTY4ODg5
+MjgzOSwtMTUyNTcwODkzMywtMTc0MzIxNDQzNywtMTU2ODcwNz
+M1MSwtMTQ4ODIwNzA5OSwtMTQ3ODgyMzIyNywtOTY5OTI4NjIz
+LC0yMDU1NDIzMjUwLDE2MzMwNTczMDIsMTAyMjc5MTQwMiwxMj
+A1MTY3MjEsLTE3ODk2NTE5NjNdfQ==
 -->
