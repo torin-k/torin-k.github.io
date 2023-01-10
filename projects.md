@@ -44,9 +44,9 @@ The preliminary version of the MINT system was written about in the New York Pos
 
 ***
 ### March 17th: An Interactive Digital Story
-_March 17th_ is a project that mixes some web technologies with literature, providing a new (and in my opinion pretty cool!) take on the classic murder mystery. This story takes readers through the night of March 17th and the murderous Entright family, leading them through a series of riddles to reach the end. I thought the digital format would let _March 17th_ transform the murder mystery from a retrospective, passively read narrative to an actively engaging, conclusion-driven experience – instead of reading about a detective figuring out the crime, the reader figures out the crime themselves. You can 
-The story
-The story walkthroough
+_March 17th_ is a project that mixes some web technologies with literature, providing a new (and in my opinion pretty cool!) take on the classic murder mystery. This story takes readers through the night of March 17th and the murderous Entright family, leading them through a series of riddles to reach the end. I thought the digital format would let _March 17th_ transform the murder mystery from a retrospective, passively read narrative to an actively engaging, conclusion-driven experience – instead of reading about a detective figuring out the crime, the reader figures out the crime themselves.
+You can find the story [here](https://torink2.github.io/MurderMystery/March%2017th.html) and the walkthrough [here](https://torink2.github.io/MurderMystery/March%2017th%20Walkthrough.html).
+
 
 * * *
 ### Iliac Vein Compression Model (2019-2020)
@@ -55,10 +55,10 @@ Over the course of multiple years, the [Midwest Cardiovascular Research Foundati
 ### PiMafia (3/15/2020)
 PiMafia is a client-server structured network and software that allows its users to play a game of Mafia with each other. It can be run between devices on any Local Area Network (LAN). You can find a full write-up on the project [here](https://torink2.github.io/pimafia.html). Also, the GitHub page for the project can be found [here](https://github.com/TorinK2/PiMafia).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDEyMTU2OSwxMTQ4Nzc2MDE0LDE1MD
-M5MjAzMTgsLTE4MDAxOTE1MTEsMTgwMjM4NTQ4MywtNjg4ODky
-ODM5LC0xNTI1NzA4OTMzLC0xNzQzMjE0NDM3LC0xNTY4NzA3Mz
-UxLC0xNDg4MjA3MDk5LC0xNDc4ODIzMjI3LC05Njk5Mjg2MjMs
-LTIwNTU0MjMyNTAsMTYzMzA1NzMwMiwxMDIyNzkxNDAyLDEyMD
-UxNjcyMSwtMTc4OTY1MTk2M119
+eyJoaXN0b3J5IjpbLTE5NjQxOTA0NzAsMTE0ODc3NjAxNCwxNT
+AzOTIwMzE4LC0xODAwMTkxNTExLDE4MDIzODU0ODMsLTY4ODg5
+MjgzOSwtMTUyNTcwODkzMywtMTc0MzIxNDQzNywtMTU2ODcwNz
+M1MSwtMTQ4ODIwNzA5OSwtMTQ3ODgyMzIyNywtOTY5OTI4NjIz
+LC0yMDU1NDIzMjUwLDE2MzMwNTczMDIsMTAyMjc5MTQwMiwxMj
+A1MTY3MjEsLTE3ODk2NTE5NjNdfQ==
 -->
