@@ -26,19 +26,33 @@
 | canvas | canvas.cmu.edu/courses/35835 |
 | syllabus | canvas.cmu.edu/courses/35835/assignments/syllabus |
 
-- Attendance  (7%)  
-- Quizzes  (8.25% x 4)  
-- Group Presentation  (10%)  
-- Paper 1  (25%)  
-- Paper  2  (25%)
+- 7% Attendance
+- 33% Quizzes
+- 10% Group Presentation
+- 25% Paper 1
+- 25% Paper  2
+
+##  Funding Entrepreneurial Ventures | 70-395
+|  |  |
+|--|--|
+| canvas | canvas.cmu.edu/courses/35835 |
+| syllabus | canvas.cmu.edu/courses/35835/assignments/syllabus |
+
+- 7% Attendance
+- 33% Quizzes
+- 10% Group Presentation
+- 25% Paper 1
+- 25% Paper  2
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTIzMDg5NSwxNTM0ODAzMDAzLDI4Mz
-cwOTgzNCwtMTc1MjI5MTA5OCwtMTIyMTY1ODA1MCwtMTcxMzQ1
-NDE3NywxNzI4ODI2NTQ1LC0xMzgyNjM3MzQ1LDE0MTI0ODk0Nj
-YsLTY1NjgyMTA0LC02Nzc2ODA5MjIsLTE3MDUzMDQyMDVdfQ==
+eyJoaXN0b3J5IjpbLTE1NzMxNzYzMjYsMTUzNDgwMzAwMywyOD
+M3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAsLTE3MTM0
+NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEyNDg5ND
+Y2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0MjA1XX0=
 
 -->
