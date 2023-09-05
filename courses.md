@@ -36,12 +36,11 @@
 |  |  |
 |--|--|
 | canvas | canvas.cmu.edu/courses/35952 |
-| syllabus | canvas.cmu.edu/courses/35835/assignments/syllabus |
 
-- Homework  
-- Class participation/ attendance  10  
-- Case study  1  30  
-- Case study 2  30
+- 30% Homework  
+- 10% Class participation/ attendance  
+- 30% Case study  1  
+- 30% Case study 2
 
 
 
@@ -49,7 +48,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTUwMzU0MDMsMTUzNDgwMzAwMywyOD
+eyJoaXN0b3J5IjpbLTEyNTYwOTc2MDEsMTUzNDgwMzAwMywyOD
 M3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAsLTE3MTM0
 NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEyNDg5ND
 Y2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0MjA1XX0=
