@@ -9,15 +9,17 @@
 ##  Bio-nanotechnology: Principles and Applications | 27-514
 |  |  |
 |--|--|
-| boop | boop.org |
+| canvas | canvas.cmu.edu/courses/36981 |
+| syllabus | canvas.cmu.edu/courses/36981/files/9888018/ |
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1NDc5NDIxLDE1MzQ4MDMwMDMsMjgzNz
-A5ODM0LC0xNzUyMjkxMDk4LC0xMjIxNjU4MDUwLC0xNzEzNDU0
-MTc3LDE3Mjg4MjY1NDUsLTEzODI2MzczNDUsMTQxMjQ4OTQ2Ni
-wtNjU2ODIxMDQsLTY3NzY4MDkyMiwtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbLTEzNDY3MjMyMzgsMTUzNDgwMzAwMywyOD
+M3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAsLTE3MTM0
+NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxNDEyNDg5ND
+Y2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0MjA1XX0=
+
 -->
