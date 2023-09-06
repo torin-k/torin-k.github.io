@@ -18,7 +18,7 @@
 - 20%  Problem sets (4)
 - 30% Midterm paper
 - 40% Final project
-- 10% Class participation (instructor-measured attendance)
+- 10% Class participation (google forms)
 
 ##  AI, Society, and Humanity | 27-514
 |  |  |
@@ -26,7 +26,7 @@
 | canvas | canvas.cmu.edu/courses/35835 |
 | syllabus | canvas.cmu.edu/courses/35835/assignments/syllabus |
 
-- 7% Attendance
+- 7% Attendance (sign-in sheet)
 - 33% Quizzes
 - 10% Group presentation
 - 25% Paper 1
@@ -38,7 +38,7 @@
 | canvas | canvas.cmu.edu/courses/35952 |
 
 - 30% Homework  
-- 10% Class participation/ attendance  
+- 10% Class participation/attendance  (sign-in sheet)
 - 30% Case study  1  
 - 30% Case study 2
 
@@ -48,9 +48,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDUyNTM1OSwxNTM0ODAzMDAzLDI4Mz
-cwOTgzNCwtMTc1MjI5MTA5OCwtMTIyMTY1ODA1MCwtMTcxMzQ1
-NDE3NywxNzI4ODI2NTQ1LC0xMzgyNjM3MzQ1LDE0MTI0ODk0Nj
-YsLTY1NjgyMTA0LC02Nzc2ODA5MjIsLTE3MDUzMDQyMDVdfQ==
-
+eyJoaXN0b3J5IjpbLTY5OTEyODMzMiwtMjIwNTI1MzU5LDE1Mz
+Q4MDMwMDMsMjgzNzA5ODM0LC0xNzUyMjkxMDk4LC0xMjIxNjU4
+MDUwLC0xNzEzNDU0MTc3LDE3Mjg4MjY1NDUsLTEzODI2MzczND
+UsMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3NzY4MDkyMiwtMTcw
+NTMwNDIwNV19
 -->
