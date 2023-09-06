@@ -20,7 +20,7 @@
 - 40% Final project
 - 10% Class participation (google forms)
 
-##  AI, Society, and Humanity | 27-514
+##  AI, Society, and Humanity | 80-249
 |  |  |
 |--|--|
 | canvas | canvas.cmu.edu/courses/35835 |
@@ -31,6 +31,12 @@
 - 10% Group presentation
 - 25% Paper 1
 - 25% Paper  2
+
+## Computational Perception | 15-387
+|  |  |
+|--|--|
+| canvas | canvas.cmu.edu/courses/37045 |
+| syllabus | canvas.cmu.edu/courses/37045/files/9871772 |
 
 ##  Funding Entrepreneurial Ventures | 70-395
 |  |  |
@@ -48,9 +54,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTEyODMzMiwtMjIwNTI1MzU5LDE1Mz
-Q4MDMwMDMsMjgzNzA5ODM0LC0xNzUyMjkxMDk4LC0xMjIxNjU4
-MDUwLC0xNzEzNDU0MTc3LDE3Mjg4MjY1NDUsLTEzODI2MzczND
-UsMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3NzY4MDkyMiwtMTcw
-NTMwNDIwNV19
+eyJoaXN0b3J5IjpbLTE2MzQxMDE5ODUsLTIyMDUyNTM1OSwxNT
+M0ODAzMDAzLDI4MzcwOTgzNCwtMTc1MjI5MTA5OCwtMTIyMTY1
+ODA1MCwtMTcxMzQ1NDE3NywxNzI4ODI2NTQ1LC0xMzgyNjM3Mz
+Q1LDE0MTI0ODk0NjYsLTY1NjgyMTA0LC02Nzc2ODA5MjIsLTE3
+MDUzMDQyMDVdfQ==
 -->
