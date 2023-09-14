@@ -38,6 +38,13 @@
 | canvas | canvas.cmu.edu/courses/37045 |
 | syllabus | canvas.cmu.edu/courses/37045/files/9871772 |
 
+- 60% Assignments (4)
+- 10% Midterm
+- 20% Final exam
+- 10% Class participation
+
+88% cutoff for A
+
 ##  Funding Entrepreneurial Ventures | 70-395
 |  |  |
 |--|--|
@@ -54,9 +61,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQxMDE5ODUsLTIyMDUyNTM1OSwxNT
-M0ODAzMDAzLDI4MzcwOTgzNCwtMTc1MjI5MTA5OCwtMTIyMTY1
-ODA1MCwtMTcxMzQ1NDE3NywxNzI4ODI2NTQ1LC0xMzgyNjM3Mz
-Q1LDE0MTI0ODk0NjYsLTY1NjgyMTA0LC02Nzc2ODA5MjIsLTE3
-MDUzMDQyMDVdfQ==
+eyJoaXN0b3J5IjpbMzc5NzQ4NTY4LC0yMjA1MjUzNTksMTUzND
+gwMzAwMywyODM3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgw
+NTAsLTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NS
+wxNDEyNDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1
+MzA0MjA1XX0=
 -->
