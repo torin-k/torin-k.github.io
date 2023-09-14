@@ -3,10 +3,10 @@ My name is Torin Kovach, and I'm currently an undergraduate at the Carnegie Mell
 Outside the classroom, I enjoy coding, playing tennis and pickleball, biking, and fishing.
 
 Right now (as of Jan 2023), I'm working with Alloy Therapeutics in bioinformatics and ML, doing some really exciting stuff! 
-![enter image description here](https://github.com/torin-k/torin-k.github.io/blob/master/images/Torin1.jpg?raw=true)
+![enter image description here](https://github.com/torin-k/torin-k.github.io/blob/master/images/Torin1.jpg?raw=true
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNzk5MDcsLTE1ODkxMDIwNjksLTE3ND
-cxNDQzNywtMTkyNDc0NzVdfQ==
+eyJoaXN0b3J5IjpbLTE5OTIxNTQxNDQsLTE1ODkxMDIwNjksLT
+E3NDcxNDQzNywtMTkyNDc0NzVdfQ==
 -->
