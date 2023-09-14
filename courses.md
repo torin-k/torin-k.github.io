@@ -14,6 +14,7 @@
 |--|--|
 | canvas | canvas.cmu.edu/courses/36981 |
 | syllabus | canvas.cmu.edu/courses/36981/files/9888018 |
+| attendance | tinyurl.com/bnt-attendance |
 
 - 20%  Problem sets (4)
 - 30% Midterm paper
@@ -61,9 +62,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5NzQ4NTY4LC0yMjA1MjUzNTksMTUzND
-gwMzAwMywyODM3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgw
-NTAsLTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NS
-wxNDEyNDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1
-MzA0MjA1XX0=
+eyJoaXN0b3J5IjpbNjE3MDkyLC0yMjA1MjUzNTksMTUzNDgwMz
+AwMywyODM3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAs
+LTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxND
+EyNDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0
+MjA1XX0=
 -->
