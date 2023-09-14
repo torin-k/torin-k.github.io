@@ -5,6 +5,7 @@
 |--|--|
 | course website | mral-cmu.github.io/pages/schedule.html |
 | assignment repos | mral-cmu.github.io |
+| piazza | piazza.com/class/lfk13vo6tgw752 |
 - 70% Homework
 -   25% Project
 -   5% Participation (in-class Piazza poll)
@@ -38,6 +39,7 @@
 |--|--|
 | canvas | canvas.cmu.edu/courses/37045 |
 | syllabus | canvas.cmu.edu/courses/37045/files/9871772 |
+| piazza | piazza.com/class/lm75n93j4362cr |
 
 - 60% Assignments (4)
 - 10% Midterm
@@ -62,9 +64,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MDkyLC0yMjA1MjUzNTksMTUzNDgwMz
-AwMywyODM3MDk4MzQsLTE3NTIyOTEwOTgsLTEyMjE2NTgwNTAs
-LTE3MTM0NTQxNzcsMTcyODgyNjU0NSwtMTM4MjYzNzM0NSwxND
-EyNDg5NDY2LC02NTY4MjEwNCwtNjc3NjgwOTIyLC0xNzA1MzA0
-MjA1XX0=
+eyJoaXN0b3J5IjpbMzM4ODgzMDgzLDYxNzA5MiwtMjIwNTI1Mz
+U5LDE1MzQ4MDMwMDMsMjgzNzA5ODM0LC0xNzUyMjkxMDk4LC0x
+MjIxNjU4MDUwLC0xNzEzNDU0MTc3LDE3Mjg4MjY1NDUsLTEzOD
+I2MzczNDUsMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3NzY4MDky
+MiwtMTcwNTMwNDIwNV19
 -->
