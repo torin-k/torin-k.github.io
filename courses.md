@@ -1,4 +1,5 @@
 # Torin's Courses (Fall 2023)
+Summary and quick links for my courses this semester.
 
 ##  Mobile Robot Algorithms Laboratory | 16-362
 |  |  |
@@ -64,9 +65,9 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4ODgzMDgzLDYxNzA5MiwtMjIwNTI1Mz
-U5LDE1MzQ4MDMwMDMsMjgzNzA5ODM0LC0xNzUyMjkxMDk4LC0x
-MjIxNjU4MDUwLC0xNzEzNDU0MTc3LDE3Mjg4MjY1NDUsLTEzOD
-I2MzczNDUsMTQxMjQ4OTQ2NiwtNjU2ODIxMDQsLTY3NzY4MDky
-MiwtMTcwNTMwNDIwNV19
+eyJoaXN0b3J5IjpbOTIxNzAwNDIxLDMzODg4MzA4Myw2MTcwOT
+IsLTIyMDUyNTM1OSwxNTM0ODAzMDAzLDI4MzcwOTgzNCwtMTc1
+MjI5MTA5OCwtMTIyMTY1ODA1MCwtMTcxMzQ1NDE3NywxNzI4OD
+I2NTQ1LC0xMzgyNjM3MzQ1LDE0MTI0ODk0NjYsLTY1NjgyMTA0
+LC02Nzc2ODA5MjIsLTE3MDUzMDQyMDVdfQ==
 -->
