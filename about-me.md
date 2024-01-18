@@ -4,8 +4,10 @@ Outside the classroom, I enjoy tennis, biking, fishing, and snowboarding.
 
 Right now (as of Jan 2024), I'm working with [Fah Sathirapongsasuti](https://cs.stanford.edu/~fah/home.html) on a new company in the bioinformatics + ML space, doing some really exciting stuff with [antisense oligonucleotides](nature.com/articles/nrneurol.2017.148)! 
 
+I'm also excited to be TA-ing for 910-707, Advanced Deep Learning, this semester! 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDg4MjYxNiwtMTIyNDAzMzQyNSwtMT
-U4OTEwMjA2OSwtMTc0NzE0NDM3LC0xOTI0NzQ3NV19
+eyJoaXN0b3J5IjpbLTE0ODc5NDUxNjcsLTEyMjQwMzM0MjUsLT
+E1ODkxMDIwNjksLTE3NDcxNDQzNywtMTkyNDc0NzVdfQ==
 -->
