@@ -1,5 +1,5 @@
 # About This Site
-This website is created in [Markdown](https://en.wikipedia.org/wiki/Markdown), a simple text editing language which can be directly converted to HTML, using [StackEdit](https://stackedit.io/) as a Markdown editor and to facilitate uploading to [GitHub Pages](https://pages.github.com/). This system provides a simple, clean, mobile-friendly design as well as a way to easily and quickly modify and add to this site from anywhere!
+This website is created in [Markdown](https://en.wikipedia.org/wiki/Markdown), a simple text editing language which can be directly converted to HTML, using [StackEdit](https://stackedit.io/) as a Markdown editor and to facilitate uploading to [GitHub Pages](https://pages.github.com/). See my repo [here](https://github.com/torin-k/torin-k.github.io).
 
 ### Pros:
 - Super simple, clean layout with a mobile-friendly design
@@ -9,9 +9,9 @@ This website is created in [Markdown](https://en.wikipedia.org/wiki/Markdown), a
 
 ### Cons:
 - StackEdit is sometimes buggy, or won't work for a day or two
-- A
+- Markdown pages are *too* simple for some's taste
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDU4NzkwMjUsLTUyNTM0MTc3NSwzMD
-E2MDAwODldfQ==
+eyJoaXN0b3J5IjpbLTY2MDgzMjk3MywtNTI1MzQxNzc1LDMwMT
+YwMDA4OV19
 -->
