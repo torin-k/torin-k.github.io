@@ -1,5 +1,5 @@
 # Hi, I'm Torin!
-My name is Torin Kovach, and I am interested in data-driven approaches to solve complex real world problems. I recently graduated from the Carnegie Mellon University School of Computer Science, majoring in Artificial Intelligence. This is a place where I can share some of my projects, ideas, and other fun things I'm working on. 
+My name is Torin Kovach -- I'm a recent grad and am generally interested in data-driven approaches to solve complex real world problems. This is a place where I can share some of my projects, ideas, and other fun things I'm working on. 
 * [Contact me](contact.html)
 * [Projects](projects.html)
 * [Experience](experience.html)
@@ -7,7 +7,7 @@ My name is Torin Kovach, and I am interested in data-driven approaches to solve 
 * [About this site](about-site.html)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDM2MjE4MSwxNTY4MjM1MDQwLC01MD
-I1ODY4NDYsLTIwNjk2NjczNzcsMTM1NDgyNTQ0LC03MzM3NDcy
-MTZdfQ==
+eyJoaXN0b3J5IjpbLTQwNjE2MTY1MSwxMjMwMzYyMTgxLDE1Nj
+gyMzUwNDAsLTUwMjU4Njg0NiwtMjA2OTY2NzM3NywxMzU0ODI1
+NDQsLTczMzc0NzIxNl19
 -->
